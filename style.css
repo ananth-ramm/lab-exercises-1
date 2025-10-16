@@ -156,3 +156,49 @@ footer {
   margin-top: 20px;
 }
 
+<<<<<<< HEAD
+=======
+#dice-roller {
+  text-align: center;
+  background: #222;
+  color: #00ffcc;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 10px;
+  width: 320px;
+  box-shadow: 0 0 10px rgba(0, 255, 204, 0.3);
+}
+
+#dice-roller select {
+  margin: 10px;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  background-color: #00ffcc;
+  color: #222;
+  font-size: 16px;
+}
+
+#dice-roller button {
+  background-color: #00ffcc;
+  color: #222;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+#dice-roller button:hover {
+  background-color: #00ccaa;
+  transform: scale(1.05);
+}
+
+.result {
+  font-size: 22px;
+  margin-top: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+>>>>>>> frontend
