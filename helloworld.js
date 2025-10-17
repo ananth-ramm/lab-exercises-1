@@ -32,8 +32,8 @@ greet("Stranger");
 let fruits = ["apple", "mango", "watermelon", "blueberry", "strawberry"];
 
 
-fruits[1] = "grape";   
-fruits[4] = "passionfruit";         
+fruits[2] = "grape";   
+fruits[5] = "passionfruit";         
 
 
 fruits.unshift("banana");
